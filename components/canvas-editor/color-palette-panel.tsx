@@ -313,7 +313,7 @@ export function ColorPalettePanel() {
                     <SelectItem value="analogous">Analogous</SelectItem>
                     <SelectItem value="complementary">Complementary</SelectItem>
                     <SelectItem value="triadic">Triadic</SelectItem>
-                    <SelectItem value="contrast-forward">Contrast-forward (ColorHunt-like)</SelectItem>
+                    <SelectItem value="contrast-forward">Contrast-forward</SelectItem>
                     <SelectItem value="pastel">Pastel</SelectItem>
                     <SelectItem value="vibrant">Vibrant</SelectItem>
                   </SelectContent>
