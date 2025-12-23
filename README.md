@@ -126,11 +126,9 @@ Generate brand-appropriate color palettes:
 - Save palettes for later use
 - Apply palettes directly to canvas elements
 
-## License
-
-Private - All rights reserved
-
 ## Support
 
 For issues or questions, please contact the development team.
+```bash
+mohindruaryaman@gmail.com
 ```
