@@ -1,8 +1,9 @@
 # AstraCreative
-
 A professional creative builder tool designed for advertisers, aligned with Tesco brand compliance standards.
 
 Demo Video = https://youtu.be/QfsvnssVDT8
+## Resume
+Aryaman Mohindru CV = https://github.com/aa-ray-man/AstraCreative-tesco/blob/d834083a23c92c66f6767f2bee9aae79eeb15a42/resume/aryaman_SDE_cv.pdf
 
 ## Features
 
